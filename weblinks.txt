@@ -1,0 +1,29 @@
+C++ links
+https://developers.google.com/edu/c++/getting-started
+
+http://zeromq.org/
+Guide: 	http://zguide.zeromq.org/page:all
+
+
+Learn Notification queue...
+https://pocoproject.org/
+	https://pocoproject.org/features.html
+	https://pocoproject.org/docs/Poco.Thread.html
+	https://pocoproject.org/documentation/index.html
+
+IOT: 
+https://github.com/Azure/azure-iot-sdks
+
+Singleton pattern using C++11: 
+http://www.nuonsoft.com/blog/2012/10/21/implementing-a-thread-safe-singleton-with-c11/
+
+
+Lyamda expression: learn more...
+
+Abstract Factory:
+https://www.codeproject.com/Articles/252827/Learning-Poco-A-simple-HTTP-server
+https://en.wikipedia.org/wiki/Factory_method_pattern
+
+MicroServices:
+microservices.io
+
